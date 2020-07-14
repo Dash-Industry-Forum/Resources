@@ -28,6 +28,8 @@ This page collects the DASH-IF extended resources. Some of the documents are pub
 
 ### Public Web Pages 
 
+You can find the test database [here](http://testassets.dashif.org/)
+
 ### Github Repositories
 
 ### Supporting Information
@@ -36,6 +38,19 @@ This page collects the DASH-IF extended resources. Some of the documents are pub
 
 ### Public Web Pages 
 
+You can try the conformance tool [here](http://conformance.dashif.org/)
+
 ### Github Repositories
+
+* [DASH-IF Conformance tool](https://github.com/Dash-Industry-Forum/DASH-IF-Conformance)
+  * [CMAF subrepository](https://github.com/Dash-Industry-Forum/CMAF)
+  * [CTAWAVE subrepository](https://github.com/Dash-Industry-Forum/CTAWAVE)
+  * [Conformance Frontend subrepository](https://github.com/Dash-Industry-Forum/Conformance-Frontend)
+  * [Conformance Frontend HLS subrepository](https://github.com/Dash-Industry-Forum/Conformance-Frontend-HLS)
+  * [DASH validator subrepository](https://github.com/Dash-Industry-Forum/DASH)
+  * [Dynamic Service Validator subrepository](https://github.com/Dash-Industry-Forum/DynamicServiceValidator)
+  * [HLS subrepository](https://github.com/Dash-Industry-Forum/HLS)
+  * [HbbTV subrepository](https://github.com/Dash-Industry-Forum/HbbTV_DVB)
+  * [ISOSegmentValidator subrepository](https://github.com/Dash-Industry-Forum/ISOSegmentValidator)
 
 ### Supporting Information
