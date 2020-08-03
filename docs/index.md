@@ -10,7 +10,7 @@ This page collects the DASH-IF extended resources. Some of the documents are pub
 * [Interoperability General](#interoperability-general)
 * [Test Vectors and Assets](#test-vectors-and-assets)
 * [Conformance Tools](#conformance-tools)
-* [dash.js Reference Client](#dashjs-reference-client)
+* [dash.js Reference Client](#dash.js-reference-client)
 * [Live Task Force](#live-task-force)
 * [Ad Insertion Task Force](#ad-insertion-task-force)
 
@@ -55,7 +55,7 @@ You can try the conformance tool [here](http://conformance.dashif.org/)
 
 ### Supporting Information
 
-## dashjs Reference Client
+## dash.js Reference Client
 
 ### Public Web Pages
 * [dash.js API documentation](http://cdn.dashjs.org/latest/jsdoc/index.html)
