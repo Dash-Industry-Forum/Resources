@@ -21,9 +21,11 @@ This page collects the DASH-IF extended resources. Some of the documents are pub
 ### Internal Drafts
 * [DASH-IF IOP v5](https://1drv.ms/w/s!AiNJEPgowJnWgpJG1TjArW9_tY2aHQ?e=J8trjU)
 * [CR for Ad Insertion](https://1drv.ms/w/s!AiNJEPgowJnWgqN1QRrrrPClm-Dfqw?e=eT8fKP)
-* [Extensions to Low-Latency Live] (https://1drv.ms/w/s!AiNJEPgowJnWgpV1-sIjhYS2SSHXPA?e=HvTyR6)
+* [Extensions to Low-Latency Live](https://1drv.ms/w/s!AiNJEPgowJnWgpV1-sIjhYS2SSHXPA?e=HvTyR6)
 
 ### Github Repositories
+
+### Ongoing Work Items
 
 ## Test Vectors and Assets
 
