@@ -14,7 +14,11 @@ This page collects the DASH-IF extended resources. Some of the documents are pub
 
 ## Interoperability General
 
-### Published Specifications 
+### Published Specifications
+* [Guidelines for Implementation: DASH-IF Interoperability Points V4.3: On-Demand and Mixed Services, HDR Dynamic Metadata and other Improvements](https://dash-industry-forum.github.io/docs/DASH-IF-IOP-v4.3.pdf)
+* [Low-Latency Modes for DASH](https://dash-industry-forum.github.io/docs/CR-Low-Latency-Live-r8.pdf)
+* [DASH events and timed metadata tracks timing and processing model and client reference model](https://dash-industry-forum.github.io/docs/EventTimedMetadataProcessing-v1.0.2.pdf)
+* [Audio Amendment to Guidelines for Implementation: DASH-IF Interoperability Points, Version 4.3](https://dash-industry-forum.github.io/docs/Audio%20Amendment%20to%20DASH%20IOP%204.3.pdf)
 
 ### Supporting Documents
 
