@@ -31,7 +31,7 @@ This page collects the DASH-IF extended resources. Some of the documents are pub
 
 ### Github Repositories
 * [General IOP](https://github.com/Dash-Industry-Forum/DASH-IF-IOP)
-* [Ad Insertion]((https://github.com/Dash-Industry-Forum/AdInsertion)
+* [Ad Insertion](https://github.com/Dash-Industry-Forum/AdInsertion)
 * [Live](https://github.com/Dash-Industry-Forum/Live)
 * [CPIX](https://github.com/Dash-Industry-Forum/CPIX)
 * [Content Protection and Security](https://github.com/Dash-Industry-Forum/Guidelines-Security)
