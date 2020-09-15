@@ -19,17 +19,28 @@ This page collects the DASH-IF extended resources. Some of the documents are pub
 * [Low-Latency Modes for DASH](https://dash-industry-forum.github.io/docs/CR-Low-Latency-Live-r8.pdf)
 * [DASH events and timed metadata tracks timing and processing model and client reference model](https://dash-industry-forum.github.io/docs/EventTimedMetadataProcessing-v1.0.2.pdf)
 * [Audio Amendment to Guidelines for Implementation: DASH-IF Interoperability Points, Version 4.3](https://dash-industry-forum.github.io/docs/Audio%20Amendment%20to%20DASH%20IOP%204.3.pdf)
+* [DASH-IF implementation guidelines: content protection and security](https://dashif-documents.azurewebsites.net/Guidelines-Security/master/Guidelines-Security.html)
 
 ### Supporting Documents
 
 ### Internal Drafts
 * [DASH-IF IOP v5](https://1drv.ms/w/s!AiNJEPgowJnWgpJG1TjArW9_tY2aHQ?e=J8trjU)
-* [CR for Ad Insertion](https://1drv.ms/w/s!AiNJEPgowJnWgqN1QRrrrPClm-Dfqw?e=eT8fKP)
+* [CR for Ad Insertion](https://1drv.ms/w/s!AiNJEPgowJnWgqYa6yHuGVtVH1GZjA?e=rSxaOk)
 * [Extensions to Low-Latency Live](https://1drv.ms/w/s!AiNJEPgowJnWgpV1-sIjhYS2SSHXPA?e=HvTyR6)
+* [CR for Ad Insertion Test Cases](https://1drv.ms/w/s!AiNJEPgowJnWgqYcAbPpriDv13CvFg?e=54BhzW)
 
 ### Github Repositories
+* [General IOP](https://github.com/Dash-Industry-Forum/DASH-IF-IOP)
+* [Ad Insertion]((https://github.com/Dash-Industry-Forum/AdInsertion)
+* [Live](https://github.com/Dash-Industry-Forum/Live)
+* [CPIX](https://github.com/Dash-Industry-Forum/CPIX)
+* [Content Protection and Security](https://github.com/Dash-Industry-Forum/Guidelines-Security)
 
 ### Ongoing Work Items
+* [Streaming functionalities for new codecs](https://dash-industry-forum.github.io/docs//Work-Item-Proposal-Streaming-Next-Gen-Codecs-r3.pdf)
+* Watermarking
+* Events
+* Clear Key Protection
 
 ## Test Vectors and Assets
 
